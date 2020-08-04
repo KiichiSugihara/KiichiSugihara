@@ -1,6 +1,6 @@
 ### Hi there I'm Kiichi Sugihara👋
 
-Hi, I'm Kiichi Sugihara, a passionate self-taught frontEnd web developer from Japan.
+Hi, I'm Kiichi Sugihara, a frontEnd web & blockchain developer from Japan.
 
 - 🔭 I’m currently working on [Consensus Base Inc.](https://www.consensus-base.com/top-page/)
 - 🌱 I’m currently learning Typescript & React & Algorithms.
