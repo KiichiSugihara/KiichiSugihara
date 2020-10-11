@@ -2,7 +2,7 @@
 
 Hi, I'm Kiichi Sugihara, a web front-end & blockchain developer from Japan.
 
-- 🔭 I’m currently working on [Consensus Base Inc.](https://www.consensus-base.com/top-page/)
+- 🔭 I"m going to work on [tsukuruba Inc.](https://tsukuruba.com/)
 - 🌱 I’m currently learning Typescript & React & Algorithms.
 - 💬 Ask me about anything [at this issue page ](https://github.com/KiichiSugihara/KiichiSugihara/issues)
 
